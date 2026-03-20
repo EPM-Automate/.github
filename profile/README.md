@@ -1,34 +1,21 @@
 <div align="center">
 
-<!-- Replace with your org banner image URL -->
-<!-- <img src="https://your-banner-image-url.com/banner.png" alt="EPM Automate Banner" width="800"/> -->
+# 🏢 EPM Automate
 
-# EPM Automate
-
-> Enterprise Performance Management Automation Solutions
-
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
-[![RealPage](https://img.shields.io/badge/Part%20of-RealPage-blue)]()
+[![Repos](https://img.shields.io/badge/Repositories-1-blue)]()
+[![Teams](https://img.shields.io/badge/Teams-2-green)]()
+[![People](https://img.shields.io/badge/People-24-orange)]()
 
 ---
 
 ### 📢 Announcement
 
-🚨 **Banner-Test**
+**Banner-Test**
 
 ---
 
-### 🚀 Quick Links
+🔗 [Documentation](https://your-docs-link.com) • 📧 [Contact Us](mailto:team@realpage.com) • 💬 [Slack Channel](https://your-slack-link.com)
 
-| Resource | Link |
-|---|---|
-| 📖 Documentation | [Docs](https://your-link.com) |
-| 🛠️ CI/CD Pipelines | [Azure DevOps](https://your-link.com) |
-| 📋 Project Board | [Projects](https://github.com/orgs/EPM-Automate/projects) |
-| 🐛 Report an Issue | [Issues](https://your-link.com) |
-
----
-
-*© 2026 RealPage, Inc. All rights reserved.*
+*Part of RealPage*
 
 </div>
