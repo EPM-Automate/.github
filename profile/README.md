@@ -1,21 +1,32 @@
 <div align="center">
 
-# 🏢 EPM Automate
+```
+╔═══════════════════════════════════════════════╗
+║           E P M   A U T O M A T E            ║
+║     Enterprise Performance Management         ║
+║          Automation Solutions                  ║
+╚═══════════════════════════════════════════════╝
+```
 
-[![Repos](https://img.shields.io/badge/Repositories-1-blue)]()
-[![Teams](https://img.shields.io/badge/Teams-2-green)]()
-[![People](https://img.shields.io/badge/People-24-orange)]()
+[![Build](https://img.shields.io/badge/Build-Passing-brightgreen)]()
+[![Platform](https://img.shields.io/badge/Platform-Azure%20DevOps-0078D7)]()
+[![Org](https://img.shields.io/badge/Org-RealPage-FF6B00)]()
 
 ---
 
-### 📢 Announcement
-
-**Banner-Test**
+### 📢 Banner-Test
 
 ---
 
-🔗 [Documentation](https://your-docs-link.com) • 📧 [Contact Us](mailto:team@realpage.com) • 💬 [Slack Channel](https://your-slack-link.com)
+<table>
+<tr>
+<td>📖 <a href="https://your-docs-link.com">Documentation</a></td>
+<td>🛠️ <a href="https://your-link.com">CI/CD Pipelines</a></td>
+<td>📋 <a href="https://github.com/orgs/EPM-Automate/projects">Projects</a></td>
+<td>💬 <a href="https://your-slack-link.com">Slack</a></td>
+</tr>
+</table>
 
-*Part of RealPage*
+*Part of RealPage, Inc.*
 
 </div>
